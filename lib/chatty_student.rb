@@ -6,10 +6,7 @@ class ChattyStudent < Student
   end 
   
   def raise_hand
-    x = 0 
-    until x <= 10
-    super
-     x += 1
-   end
+ 
+  su[]
   end 
 end 
