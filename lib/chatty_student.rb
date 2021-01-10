@@ -6,7 +6,6 @@ class ChattyStudent < Student
   end 
   
   def raise_hand
- 
-  su[]
+  10.times(super)
   end 
 end 
